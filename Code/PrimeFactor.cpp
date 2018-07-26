@@ -1,5 +1,5 @@
-// list the common prime factors
-///87/8/24
+// Prime Factor
+// Merhran Ghandehari
 
 #include "stdafx.h"
 #include<iostream>
