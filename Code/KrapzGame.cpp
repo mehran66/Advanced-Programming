@@ -1,6 +1,4 @@
-// krapz game.cpp : Defines the entry point for the console applicati
-
-//
+// krapz game
 
 #include "stdafx.h"
 #include<stdlib.h>
