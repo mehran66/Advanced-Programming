@@ -1,8 +1,5 @@
-// B-M-M.cpp : Defines the entry point for the console application.
-//gereftane 2 adad va mohasebeieh b m m 
-//tamrine barnameh nevisi
 //mehran ghandehary
-//87/7/16
+//GCD
 
 #include "stdafx.h"
 #include <iostream>
