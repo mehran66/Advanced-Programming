@@ -1,6 +1,6 @@
-// selection sort.cpp : Defines the entry point for the console application.
+// Selection sort
 //mehran ghandehary
-//1387/8/
+
 
 #include "stdafx.h"
 #include<iostream>
@@ -20,10 +20,6 @@ void selectionsort(int a[],int arraysize){
 	}
 	selectionsort(&a[1],arraysize-1);
 	}
-
-
-
-
 }
 
 
