@@ -1,6 +1,6 @@
-/	/ binarysearch.cpp : Defines the entry point for the console application.
+// binarysearch
 //mehran ghandehary
-//1387/8/
+
 
 #include "stdafx.h"
 #include<iostream>
