@@ -1,4 +1,4 @@
-// 2-1ghomi.cpp : Defines the entry point for the console application.
+// Mehran Ghandehari
 //
 
 #include "stdafx.h"
@@ -12,6 +12,7 @@ int main()
 	long int studentnumber,n1,n2;
 	float average,a1,a2;
 	int n;
+	// Defines the entry point for the console application.
 	cout<<"how many student there are?\n";
 	cin>>n;
 	cout<<"inter student number 1 :\n";
