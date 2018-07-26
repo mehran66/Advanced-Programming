@@ -1,4 +1,5 @@
-// class rectangle.cpp : Defines the entry point for the console application.
+// Mehran Ghandehari
+// Class Rectangle
 
 
 #include "stdafx.h"
@@ -87,7 +88,7 @@ int main(){
 //************************************************************************
 void introduction()
 {
-	 cout<<"-----------IN THE NAME OF GOD----------------------------"
+	 cout<<"-----------------------------------"
      << "\n  |                                       |"                   
      << "\n  |project by :      mehran ghandehary    |"                  
      << "\n  |no : 851921326                         |"                   
