@@ -1,5 +1,7 @@
 //mehran ghandehary
 //GCD
+//Greatest common divisor
+
 
 #include "stdafx.h"
 #include <iostream>
