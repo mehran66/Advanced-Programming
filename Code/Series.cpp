@@ -1,5 +1,5 @@
-// 2-10-ghomi.cpp : Defines the entry point for the console application.
-//87/7/12     1+(1/2!)+(1/3!)+...+(1/n!)
+// Mehran Ghandehari
+//Calculate 1+(1/2!)+(1/3!)+...+(1/n!)basd on the input n (N is the number of elements in the series)
 
 #include "stdafx.h"
 #include<iostream>
@@ -10,7 +10,6 @@ using namespace std;
 int main()
 {
 	int n;
-	//n tedad jomalate seri ast.
 	cout<<"Input n:";
 	cin>>n;
 	double sum=1,k;
