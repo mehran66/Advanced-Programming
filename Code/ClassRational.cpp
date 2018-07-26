@@ -1,4 +1,5 @@
-// class Rational.cpp : Defines the entry point for the console application.
+// Merhan Ghandehari
+// Class Rational
 
 
 #include "stdafx.h"
