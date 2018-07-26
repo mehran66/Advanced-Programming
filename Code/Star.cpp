@@ -1,4 +1,4 @@
-// 2-3-ghomi-setareh.cpp : Defines the entry point for the console application.
+// Mehran Ghandehari
 //
 #include "stdafx.h"
 #include <iostream>
