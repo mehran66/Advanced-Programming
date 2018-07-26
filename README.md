@@ -1,2 +1,2 @@
-# Advanced-Programming
-My C++ codes for the advanced programming code (Fall 2008)
+# Advanced Programming
+My C++ codes for the advanced programming course (Fall 2008)
