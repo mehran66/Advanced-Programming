@@ -1,4 +1,5 @@
-// class Integerset.cpp : Defines the entry point for the console application.
+// Mehran Ghandehari
+// ClassIntset
 
 #include "stdafx.h"
 #include<conio.h>
@@ -201,7 +202,7 @@ int main(){
 //************************************************************************
 void introduction()
 {
-	 cout<<"-----------IN THE NAME OF GOD----------------------------"
+	 cout<<"------------------------------------"
      << "\n  |                                       |"                   
      << "\n  |project by :      mehran ghandehary    |"                  
      << "\n  |no : 851921326                         |"                   
