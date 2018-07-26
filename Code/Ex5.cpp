@@ -1,4 +1,4 @@
-// tamrin 5.cpp : Defines the entry point for the console application.
+// Merhan Ghandehari
 //
 
 #include "stdafx.h"
