@@ -1,7 +1,5 @@
-// tamrine 6.cpp : Defines the entry point for the console application.
-//gereftane adade sahihe n,shomareshe teded argham,varoune adad,majmooe adad va varoon;
+
 //mehran ghandhary
-//87/7/19
 
 #include "stdafx.h"
 #include<iostream>
