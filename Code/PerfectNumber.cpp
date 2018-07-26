@@ -1,5 +1,5 @@
-// 2-2-ghomi-kamel bodane yek adad.cpp : Defines the entry point for the console application.
-//
+// Merhan Ghandehari
+// Test to see if a number is perfect
 
 #include "stdafx.h"
 #include<iostream>
