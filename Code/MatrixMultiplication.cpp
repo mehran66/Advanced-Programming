@@ -1,6 +1,6 @@
-// zarbe do matrix.cpp : Defines the entry point for the console application.
+// MatrixMultiplication
 //mehran ghandehary
-//friday 87/8/25
+
 ***************************************************************************
 
 #include "stdafx.h"
