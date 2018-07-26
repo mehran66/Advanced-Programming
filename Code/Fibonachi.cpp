@@ -1,5 +1,5 @@
-// 2-5-ghomi-fibonachi.cpp : Defines the entry point for the console application.
-//friday 87/7/12
+// Mehran Gahndehari
+//Fibonachi
 
 #include "stdafx.h"
 #include<iostream>
@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
 	int a,b,c,n;
-	//n teded jomalate seri fibonachi.
+	//n is the number of elements in the fibonachi's seies.
 	cout<<"input n:";
 	cin>>n;
 	a=1;
