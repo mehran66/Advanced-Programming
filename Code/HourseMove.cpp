@@ -1,5 +1,6 @@
-// Hanoy.cpp : Defines the entry point for the console application.
-//
+// Mehran Ghandehari
+// Hanoy
+// HourseMove
 
 #include "stdafx.h"
 #include<stdlib.h>
