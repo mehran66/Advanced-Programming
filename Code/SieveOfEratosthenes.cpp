@@ -1,7 +1,7 @@
-// gharbale eratostan.cpp : Defines the entry point for the console application.
+// Sieve Of Eratosthenes
 //mehran ghandehary
-//1387/8/8
-//programing project
+
+
 #include "stdafx.h"
 #include<iostream>
 #include<conio.h>
