@@ -1,8 +1,6 @@
-// mehvar mokhtasat-tamrin ezafi.cpp : Defines the entry point for the console application.
-//tamrin ezafi mehvar mokhtasat
-//tamrine barnameh nevisi
+// CoordinateSystem
 //mehran ghandehary
-//87/7/16
+
 
 #include "stdafx.h"
 #include <iostream>
