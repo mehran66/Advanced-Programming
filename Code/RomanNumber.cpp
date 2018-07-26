@@ -1,7 +1,5 @@
-// roman-romi characters.cpp : Defines the entry point for the console application.
-//1387/8/24 friday 09:43am
-//tabdile int number to romi number
-//1<=int<=3999
+// Roman Number
+//Mehran Ghandehari
 
 #include "stdafx.h"
 #include<iostream>
