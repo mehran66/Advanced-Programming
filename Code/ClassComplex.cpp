@@ -1,7 +1,5 @@
-// class Complex.cpp : Defines the entry point for the console application.
-/**
-  *A program to illustrate the use of Complex numbers.
- **/
+//Mehran Ghandehari
+//ClassComplex
 
 
 #include "stdafx.h"
