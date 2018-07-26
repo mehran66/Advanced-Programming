@@ -1,5 +1,5 @@
-// round.cpp : Defines the entry point for the console application.
-//
+// rounding a number
+// Mehran Ghandehari
 
 
 #include "stdafx.h"
